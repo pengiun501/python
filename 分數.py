@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Aug 24 19:59:25 2020
-
-@author: Alice
-"""
-
 score=int(input('please input your score:'))
 if score>=90:
     print("Hello, I'm an A++ T.Rex!!!")
